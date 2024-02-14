@@ -1,0 +1,12 @@
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.csproj.AssemblyReference.cache
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.AssemblyInfoInputs.cache
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.AssemblyInfo.cs
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.csproj.CoreCompileInputs.cache
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\bin\Debug\net7.0\DapperMvcDemo.Data.deps.json
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\bin\Debug\net7.0\DapperMvcDemo.Data.dll
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\bin\Debug\net7.0\DapperMvcDemo.Data.pdb
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.dll
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\refint\DapperMvcDemo.Data.dll
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\DapperMvcDemo.Data.pdb
+J:\Projects\DapperMvcDEMO\DapperMvcDemo.Data\obj\Debug\net7.0\ref\DapperMvcDemo.Data.dll

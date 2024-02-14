@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "WizpGEaLHRSia+6ZhS5Ut8Xp2nbUX3qwkTRhYyc5wX8=",
+  "Source": "DapperMvcDEMOUI",
+  "BasePath": "_content/DapperMvcDEMOUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DapperMvcDEMOUI\\wwwroot",
+      "Source": "DapperMvcDEMOUI",
+      "ContentRoot": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\wwwroot\\",
+      "BasePath": "_content/DapperMvcDEMOUI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DapperMvcDEMOUI.styles.css",
+      "SourceId": "DapperMvcDEMOUI",
+      "SourceType": "Computed",
+      "ContentRoot": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DapperMvcDEMOUI",
+      "RelativePath": "DapperMvcDEMOUI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DapperMvcDEMOUI.styles.css"
+    },
+    {
+      "Identity": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DapperMvcDEMOUI.bundle.scp.css",
+      "SourceId": "DapperMvcDEMOUI",
+      "SourceType": "Computed",
+      "ContentRoot": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DapperMvcDEMOUI",
+      "RelativePath": "DapperMvcDEMOUI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DapperMvcDEMOUI.bundle.scp.css"
+    },
+    {
+      "Identity": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\wwwroot\\favicon.ico",
+      "SourceId": "DapperMvcDEMOUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\wwwroot\\",
+      "BasePath": "_content/DapperMvcDEMOUI",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

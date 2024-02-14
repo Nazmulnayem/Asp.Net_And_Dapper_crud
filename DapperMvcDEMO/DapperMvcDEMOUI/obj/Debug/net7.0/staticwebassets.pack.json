@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DapperMvcDEMOUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DapperMvcDEMOUI.bundle.scp.css"
+    },
+    {
+      "Id": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DapperMvcDEMOUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DapperMvcDEMOUI.props",
+      "PackagePath": "build\\DapperMvcDEMOUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DapperMvcDEMOUI.props",
+      "PackagePath": "buildMultiTargeting\\DapperMvcDEMOUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DapperMvcDEMOUI.props",
+      "PackagePath": "buildTransitive\\DapperMvcDEMOUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

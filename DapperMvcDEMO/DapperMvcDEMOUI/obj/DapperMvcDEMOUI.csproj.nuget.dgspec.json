@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\DapperMvcDEMOUI.csproj": {}
+  },
+  "projects": {
+    "J:\\Projects\\DapperMvcDEMO\\DapperMvcDemo.Data\\DapperMvcDemo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDemo.Data\\DapperMvcDemo.Data.csproj",
+        "projectName": "DapperMvcDemo.Data",
+        "projectPath": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDemo.Data\\DapperMvcDemo.Data.csproj",
+        "packagesPath": "C:\\Users\\nazmu\\.nuget\\packages\\",
+        "outputPath": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDemo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nazmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "microsoft.data.sqlclient": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\DapperMvcDEMOUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\DapperMvcDEMOUI.csproj",
+        "projectName": "DapperMvcDEMOUI",
+        "projectPath": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\DapperMvcDEMOUI.csproj",
+        "packagesPath": "C:\\Users\\nazmu\\.nuget\\packages\\",
+        "outputPath": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDEMOUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nazmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "J:\\Projects\\DapperMvcDEMO\\DapperMvcDemo.Data\\DapperMvcDemo.Data.csproj": {
+                "projectPath": "J:\\Projects\\DapperMvcDEMO\\DapperMvcDemo.Data\\DapperMvcDemo.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+﻿@model Person
+@{
+
+}
+
+<h3>Edit</h3>
+
+<a href="/Person/Getall" class="my-2 btn-primary btn-primary"></a>
+
+
+<form asp-action="Edit">
+    <input asp-for="Id" type="hidden" class="form-control">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" type="text" class="form-control">
+
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" type="email" class="form-control">
+
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Address</label>
+        <textarea asp-for="Address" class="form-control" rows="3"></textarea>
+
+        <span class="text-danger" asp-validation-for="Address"></span>
+    </div>
+    @if (TempData["msg"] != null)
+    {
+        <div class="mb-3">
+            @TempData["msg"]
+        </div>
+    }
+
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+
+</form>
